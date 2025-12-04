@@ -1,5 +1,6 @@
 ## Portfolio — click image to visit
-[![Portfolio Preview](https://drive.google.com/thumbnail?id=1IvxUMwUnJ4-6yVKnk5NNMffzkoOZ4NKy&sz=w1920-h1080)](https://portfolio-two-inky-81.vercel.app)
+
+[![Portfolio Preview](https://drive.google.com/thumbnail?id=1o5JVof-WSCOUjl3Jdg9OiDWxIFgAMwng&sz=w1920-h1080)](https://portfolio-two-inky-81.vercel.app)
 ---
 
 ## About Me
